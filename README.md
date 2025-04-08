@@ -1,1 +1,1 @@
-# Decnetrust
+# Decentrust
